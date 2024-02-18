@@ -1,9 +1,10 @@
 # Backhub - a profile based Github repository backup script
 A developer's GitHub is their CV & identity => I was worried about downtime and chose to quickly write some subjectively convenient backup scripts that I personally find useful.
 
-## Prerequisites
-To be able to clone private repos your environment must be configured with SSH/GPG keys.
+## WIP
+To be done: Backup private repos.
 
+## Prerequisites
 SSH/GPG key setup is not explained here as it is best practice and industry standard.
 
 python3
